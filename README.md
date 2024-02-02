@@ -20,3 +20,6 @@ Relay outputs
 Transistor outputs
 Analog inputs
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1nL4Ykaay0X31XNMPIuaY58jeXFMQFxqh&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1m19Z7KQEEzppaWoh4zOM1KygRXKDAUUP&usp=drive_fs
